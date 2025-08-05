@@ -1,4 +1,6 @@
-## Hi there 👋
+🎓 Formada em Gestão de Projetos e Produtos, com foco em experiência do cliente e soluções centradas em valor.  
+📚 Em transição de carreira, aplico meus conhecimentos em metodologias ágeis, discovery e análise de dados para criar entregas mais eficientes.  
+💡 Buscando oportunidades para colaborar com times inovadores, aprendendo na prática e evoluindo junto com o negócio.## Hi there 👋
 
 <!--
 **Giresende/Giresende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
